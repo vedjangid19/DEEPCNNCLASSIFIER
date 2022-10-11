@@ -128,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#vs code
+# vs code
 .vscode
+
+# ignore jpg file and zip file
+*.jpg
+*.zip
+
