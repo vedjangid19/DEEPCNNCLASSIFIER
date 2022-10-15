@@ -1,6 +1,6 @@
-from src.deepClassifier.constants import CONFIG_FILE_PATH, PARAMS_FILE_PATH
-from src.deepClassifier.utils import read_yaml, create_directories
-from src.deepClassifier.entity import DataIngestionConfig
+from deepClassifier.constants import CONFIG_FILE_PATH, PARAMS_FILE_PATH
+from deepClassifier.utils import read_yaml, create_directories
+from deepClassifier.entity import DataIngestionConfig
 
 class ConfigurationManager:
     def __init__(
