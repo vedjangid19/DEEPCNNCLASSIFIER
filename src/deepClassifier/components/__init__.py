@@ -1,1 +1,1 @@
-from src.deepClassifier.components.data_ingestion import DataIngestion
+from deepClassifier.components.data_ingestion import DataIngestion
