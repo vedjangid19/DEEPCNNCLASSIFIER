@@ -142,3 +142,6 @@ artifacts/prepare_callbacks/checkpoint_dir/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-18-12-21-34/train/events.out.tfevents.1663483897.C17HAWKE.5048.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-18-12-21-34/validation/events.out.tfevents.1663484259.C17HAWKE.5048.1.v2
 artifacts/training/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-16-15-35-40/train/events.out.tfevents.1665914762.DESKTOP-HUEQSM8.12504.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-16-23-17-38/train/events.out.tfevents.1665942464.DESKTOP-HUEQSM8.8952.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-16-23-17-38/validation/events.out.tfevents.1665957196.DESKTOP-HUEQSM8.8952.1.v2
