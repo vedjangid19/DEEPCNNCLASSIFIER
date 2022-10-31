@@ -146,3 +146,4 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-16-15-35-40/t
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-16-23-17-38/train/events.out.tfevents.1665942464.DESKTOP-HUEQSM8.8952.0.v2
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-16-23-17-38/validation/events.out.tfevents.1665957196.DESKTOP-HUEQSM8.8952.1.v2
 mlruns/
+scores.json
